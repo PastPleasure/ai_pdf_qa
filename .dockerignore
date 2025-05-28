@@ -1,0 +1,14 @@
+# Ignore unnecessary stuff in build context
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+keys.env
+*.db
+vectorstore/
+memory.jsonl
+documents/
+*.log
+.DS_Store
+.vscode/

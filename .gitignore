@@ -1,0 +1,5 @@
+memory.jsonl
+/documents
+/vectorstore
+__pycache__/
+.env
